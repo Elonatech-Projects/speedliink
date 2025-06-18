@@ -327,7 +327,8 @@ const Page = () => (
         {/* Center: Text */}
         <div className="text-center text-white -mt-4">
         <h2 className="text-xl font-semibold">Pursue Your Certification Dreams with Speedlink!</h2>
-        <p className="text-xl mt-1">We're now an official Pearson VUE testing center!</p>
+        <p className="text-xl mt-1"><p>We&apos; re now an official</p>
+        an official Pearson VUE testing center!</p>
         </div>
 
 
